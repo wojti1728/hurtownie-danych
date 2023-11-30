@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "cwiczenia4", "cwiczenia4\cwiczenia4.dtproj", "{09560DB9-7D30-40E6-9402-7530B35E86AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09560DB9-7D30-40E6-9402-7530B35E86AE}.Development|Default.ActiveCfg = Development
+		{09560DB9-7D30-40E6-9402-7530B35E86AE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D508926-2C9F-4A8E-B094-5B8A6E274FAD}
+	EndGlobalSection
+EndGlobal
